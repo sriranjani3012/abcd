@@ -9,7 +9,7 @@ public class ArrayList1 {
 		s.add("10");
 		s.add("sri");
 		s.add("sri1");
-
+System.out.println("enhanced for loop");
 		
 		for (String x : s) {
 			System.out.println(x);
